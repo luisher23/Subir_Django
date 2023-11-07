@@ -7,7 +7,7 @@ django-crispy-forms==2.0
 gunicorn==21.2.0
 mysqlclient==2.1.1
 packaging==23.1
-Pillow==10.0.1
+Pillow==9.5.0
 psycopg2-binary==2.9.8
 sqlparse==0.4.4
 typing_extensions==4.8.0
